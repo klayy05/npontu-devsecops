@@ -9,7 +9,7 @@ SECRET_KEY = "supersecret123"
 @app.route("/")
 def home():
     return jsonify({
-        "message": "Npontu DevOps Pipeline - Running",
+        "message": "Npontu DevSecOps Pipeline - Running",
         "status": "healthy"
     })
 

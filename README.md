@@ -1,4 +1,4 @@
-# Npontu Technologies — DevOps Intern Assignment
+# Npontu Technologies — DevSecOps Intern Assignment
 
 A basic CI/CD pipeline built with GitHub Actions, Docker, and Render.com.
 
